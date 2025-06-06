@@ -6,6 +6,9 @@ This project applies machine learning techniques to predict the winner of a Pok√
 ## How to Run Notebooks
 If needed look at requirements.txt to install dependencies
 
+## To Test Out Our Best Model
+https://pokemonwebsite-rso8.onrender.com/ 
+
 ## To Download Pokemon Datasets
 Navigate to https://www.kaggle.com/datasets/tuannguyenvananh/pokemon-dataset-with-team-combat?resource=download and download 'pokemon.csv' and 'combats.csv'
 

@@ -1,0 +1,8 @@
+pandas
+matplotlib.pyplot
+numpy
+seaborn
+sklearn
+mpl_toolkits.mplot3d
+kagglehub (optional)
+
