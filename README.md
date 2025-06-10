@@ -9,6 +9,8 @@ If needed look at requirements.txt to install dependencies
 ## To Test Out Our Best Model
 https://pokemonwebsite-rso8.onrender.com/ 
 
+Link to the github for the front-end code: https://github.com/YMoule/PokemonWebsite.git
+
 ## To Download Pokemon Datasets
 Navigate to https://www.kaggle.com/datasets/tuannguyenvananh/pokemon-dataset-with-team-combat?resource=download and download 'pokemon.csv' and 'combats.csv'
 
